@@ -3,5 +3,5 @@ services:
     type: web
     runtime: static
     env: static
-    publish_path: active.file
+    publish_path: main
     branch: main
