@@ -3,5 +3,5 @@ services:
     type: web
     runtime: static
     env: static
-    staticPublishPath: main
+    staticPublishPath: thing
     branch: main
